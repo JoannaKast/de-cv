@@ -15,12 +15,10 @@ sidebar:
     street: Jungbluthstrasse 2
     postcode: 52428
     city: Jülich 
+    
+    dateofbirth: 3 Oktober 1971
 
     # Sidebar links
-    address: 
-        Jungbluthstrasse 2
-        52428, Jülich 
-    dateofbirth: 3 Oktober 1971
     email: joanna.kast@gmail.com
     phone: +49 (0) 157 5733 6907
     website: joannakast.github.io/online-cv/ #do not add http://
