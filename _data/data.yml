@@ -12,6 +12,10 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
+    address: 
+        Jungbluthstrasse 2
+        52428, Jülich 
+    dateofbirth: 3 Oktober 1971
     email: joanna.kast@gmail.com
     phone: +49 (0) 157 5733 6907
     website: joannakast.github.io/online-cv/ #do not add http://
