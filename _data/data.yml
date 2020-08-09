@@ -11,6 +11,11 @@ sidebar:
     tagline: Customer Service
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
+    # Address
+    street: Jungbluthstrasse 2
+    postcode: 52428
+    city: Jülich 
+
     # Sidebar links
     address: 
         Jungbluthstrasse 2
