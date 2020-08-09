@@ -8,7 +8,12 @@ sidebar:
 
     # Profile information
     name: Joanna Kast
-    tagline: Customer Service
+    tagline:
+        3 Oktober 1971
+    
+        Jungbluthstrasse 2
+        52428
+        Jülich
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
