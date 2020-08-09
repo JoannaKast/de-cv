@@ -10,9 +10,11 @@ sidebar:
     name: Joanna Kast
     tagline: Customer Service
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    address: 52428 Jülich, Jungbluthstrasse 2
 
     # Sidebar links
     email: joanna.kast@gmail.com
+    dob: 3-10-71
     phone: +49 (0) 157 5733 6907
     website: joannakast.github.io/online-cv/ #do not add http://
     
