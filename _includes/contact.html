@@ -2,25 +2,19 @@
   <ul class="list-unstyled contact-list">
 
     {% if sidebar.street %}
-    <a>{{ sidebar.street }}</a>
+      <a>{{ sidebar.street }}</a>
     {% endif %}
+    
     {% if sidebar.postcode %}
-    <a>{{ sidebar.street }}</a>
+      <a>{{ sidebar.postcode }}</a>
     {% endif %}
+    
     {% if sidebar.city %}
-    <a>{{ sidebar.street }}</a>
-    {% endif %}
-
-    {% if sidebar.address %}
-    <li class="address">
-      <a href="{{ sidebar.address }}">{{ sidebar.address }}</a>
-    </li>
+      <a>{{ sidebar.city }}</a>
     {% endif %}
 
     {% if sidebar.dateofbirth %}
-    <li class="dateofbirth">
-      <a href="{{ sidebar.dateofbirth }}">{{ sidebar.dateofbirth }}</a>
-    </li>
+      <a>{{ sidebar.dateofbirth }}</a>
     {% endif %}
 
     {% if sidebar.email %}
