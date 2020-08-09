@@ -12,11 +12,11 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Address
-    street: Jungbluthstrasse 2
-    postcode: 52428
-    city: Jülich 
+    # street: Jungbluthstrasse 2
+    # postcode: 52428
+    # city: Jülich 
     
-    dateofbirth: 3 Oktober 1971
+    # dateofbirth: 3 Oktober 1971
 
     # Sidebar links
     email: joanna.kast@gmail.com
