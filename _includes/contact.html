@@ -1,15 +1,25 @@
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
 
+    {% if sidebar.street %}
+    <a>{{ sidebar.street }}</a>
+    {% endif %}
+    {% if sidebar.postcode %}
+    <a>{{ sidebar.street }}</a>
+    {% endif %}
+    {% if sidebar.city %}
+    <a>{{ sidebar.street }}</a>
+    {% endif %}
+
     {% if sidebar.address %}
     <li class="address">
-      <a href="mailto:{{ sidebar.address }}">{{ sidebar.address }}</a>
+      <a href="{{ sidebar.address }}">{{ sidebar.address }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.dateofbirth %}
     <li class="dateofbirth">
-      <a href="mailto:{{ sidebar.dateofbirth }}">{{ sidebar.dateofbirth }}</a>
+      <a href="{{ sidebar.dateofbirth }}">{{ sidebar.dateofbirth }}</a>
     </li>
     {% endif %}
 
